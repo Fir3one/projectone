@@ -1,0 +1,22 @@
+{
+  "name": "projectone",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fir3one/projectone.git"
+  },
+  "author": "Fir3one",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fir3one/projectone/issues"
+  },
+  "homepage": "https://github.com/Fir3one/projectone#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
